@@ -1,10 +1,10 @@
-# transcriber-app
+# Speech-to-Text-Transcription
 
-# Watch the tutorial video
+``
+A Speech-to-Text Transcription App in Python using the AssemblyAI API. In brief, AssemblyAI is a speech-to-text API that I have used for transcribing YouTube videos that we will download via the pytube Python library. Finally, I have deployed this as a command line tool and a web app using argparse and Streamlit, respectively.
+``
 
-[How to build your own Speech-to-Text Transcription App in Python using AssemblyAI](https://youtu.be/Kj0JtjAxxKA)
-
-<a href="https://youtu.be/NNq_XBVk30w"><img src="http://img.youtube.com/vi/NNq_XBVk30w/maxresdefault.jpg" alt="How to build your own Speech-to-Text Transcription App in Python using AssemblyAI" title="How to build your own Speech-to-Text Transcription App in Python using AssemblyAI" width="500" /></a>
+![](https://github.com/Anas436/Speech-to-Text-Transcription/blob/main/demo.png)
 
 # 1. Obtain the AssemblyAI API key
 
@@ -40,7 +40,7 @@ conda activate transcriber
 ###  Download GitHub repo
 
 ```
-git clone https://github.com/dataprofessor/transcriber-app
+git clone https://github.com/Anas436/Speech-to-Text-Transcription
 ```
 
 ###  Pip install libraries
